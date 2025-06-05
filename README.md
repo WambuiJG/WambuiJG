@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WambuiJG
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m currently learning machine learning techniques
+- 😄 Pronouns: She/her/her
