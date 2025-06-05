@@ -3,3 +3,8 @@
 - 🌱 I’m currently learning machine learning techniques
 - 😄 Pronouns: She/her/her
 - You can connect with me on LinkedIn: https://www.linkedin.com/in/wambui-gitahi/
+
+Analytical Projects:
+
+Kmeans & Hierachial Clustering on Online Mall Data: https://github.com/WambuiJG/WambuiJG/blob/a5b1f05db93fe3990fbdac353ba55b5f8f774ac9/Clustering%20for%20Customer%20Segmentation%20on%20Online%20Mall%20Data.ipynb
+
