@@ -40,10 +40,10 @@ ggplot(data = LE_na, aes(x = Total.expenditure, y = Life.expectancy, color = Sta
        color = "Country Status") +
   theme_minimal() +
   theme(legend.position = "bottom")
-#Make correlation matrix of the independent variables. Do you see any multicollinearity between the variables? If yes, then drop the variables. 
+#Make correlation matrix of the independent variables.
 colnames(LE_na)
 #Choose the Life expectancy as your dependent variable and choose independent variables schooling and heath care expenditure, BMI, population, measles and polio apart from GDP.
-#Make correlation matrix of the independent variables. Do you see any multicollinearity between the variables? If yes, then drop the variables. 
+
 LED_na %>% select(c(14,22,18,11,22,10,13)) %>% modelsummary::datasummary_correlation()
 
 #Running regression without dummy
@@ -63,14 +63,14 @@ multimodel<-lm(Life.expectancy~GDP+Total.expenditure+
                     Schooling+Population+BMI+developing+Measles+Polio, data = LE_dummies)
 summary(multimodel)
 
-#Run a regression again with an interaction term between developing country and schooling variable. Report the results. 
+#Run a regression again with an interaction term between developing country and schooling variable. 
 #We want to create an interaction term
 multimodel1<-lm(Life.expectancy~GDP+Total.expenditure+
                     Measles+Polio+Population+BMI+developing+ 
                     Schooling*developing, 
                   data = LE_dummies)
 summary(multimodel1)
-#Run a regression and include an interaction term of the dummy variable with immunization (Hepatitis B). Report the results.  
+#Run a regression and include an interaction term of the dummy variable with immunization (Hepatitis B). 
 multimodel2<-lm(Life.expectancy~GDP+Total.expenditure+
                   Measles+Polio+Population+BMI+developing+ 
                   Schooling+ Hepatitis.B*developing, 
