@@ -10,5 +10,5 @@ K-means & Hierachial Clustering on Fictional Mall Data using Python: https://git
 
 Life Expectancy Project using R: https://github.com/WambuiJG/WambuiJG/blob/73a43dca00be73134c7de02d27638066d1099621/Life%20Expectancy%20Project%20using%20R
 
-Exploratory Data Analysis of English Premier League Data from 2018-2019: 
+Analysis of English Premier League Data from 2018-2019: 
 https://github.com/WambuiJG/WambuiJG/blob/831873b9bdbd42c353c198fa8325fd0e3cc80dae/English_Premier_League_Soccer.ipynb
