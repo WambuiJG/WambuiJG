@@ -24,6 +24,7 @@ https://github.com/WambuiJG/WambuiJG/blob/82634af16b8f1fb45f6331afba814cb02c8d86
 https://github.com/WambuiJG/WambuiJG/blob/b24a18a001778edacf96a7aee87685e5d3233f32/Investigating%20Behavioral%20Economics%20Biases
 
 ##Excel Projects
+
 ###Financial Analysis using Excel
 
 Excel: https://github.com/WambuiJG/WambuiJG/blob/ae274e434463d71653f6bbc3f1549c8abee857fa/Wambui%20Gitahi_BigTech%20-%20Excel.xlsx
