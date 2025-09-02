@@ -19,5 +19,7 @@ Life Expectancy Project using R: https://github.com/WambuiJG/WambuiJG/blob/73a43
 Investigating Behavioral Economics Biases using R: 
 https://github.com/WambuiJG/WambuiJG/blob/b24a18a001778edacf96a7aee87685e5d3233f32/Investigating%20Behavioral%20Economics%20Biases
 
+Financial Analysis using Excel
+Excel: https://github.com/WambuiJG/WambuiJG/blob/ae274e434463d71653f6bbc3f1549c8abee857fa/Wambui%20Gitahi_BigTech%20-%20Excel.xlsx
 
 
