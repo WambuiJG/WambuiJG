@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WambuiJG
+- 👋 Hi, I’m Wambui
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning machine learning techniques
+- 🌱 I’m currently learning machine learning techniques, cloud infrastructure and financial planning & analysis. 
 - 😄 Pronouns: She/her/her
 - You can connect with me on LinkedIn: https://www.linkedin.com/in/wambui-gitahi/
 
