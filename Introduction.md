@@ -29,8 +29,9 @@ https://github.com/WambuiJG/WambuiJG/blob/b24a18a001778edacf96a7aee87685e5d3233f
 
 ### Financial Analysis using Excel
 
-Excel: https://github.com/WambuiJG/WambuiJG/blob/ae274e434463d71653f6bbc3f1549c8abee857fa/Wambui%20Gitahi_BigTech%20-%20Excel.xlsx
-Presentation: https://github.com/WambuiJG/WambuiJG/blob/b8a6d7fc5e1af606dcdd47bcf34e03ff4d3a857c/Wambui%20Gitahi_BigTechCompany_Presentation.pptx
+https://github.com/WambuiJG/WambuiJG/blob/ae274e434463d71653f6bbc3f1549c8abee857fa/Wambui%20Gitahi_BigTech%20-%20Excel.xlsx
+#### PowerPoint Report of Findings: 
+https://github.com/WambuiJG/WambuiJG/blob/b8a6d7fc5e1af606dcdd47bcf34e03ff4d3a857c/Wambui%20Gitahi_BigTechCompany_Presentation.pptx
 
 
 
