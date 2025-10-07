@@ -20,7 +20,7 @@ https://github.com/WambuiJG/WambuiJG/blob/82634af16b8f1fb45f6331afba814cb02c8d86
 ## R Projects
 
 ### Life Expectancy Project using R:
-https://github.com/WambuiJG/WambuiJG/blob/73a43dca00be73134c7de02d27638066d1099621/Life%20Expectancy%20Project%20using%20R
+https://github.com/WambuiJG/WambuiJG/blob/b7b8bc6971bd0bcb503558058bf23eb252e406c5/Global%20Life%20Expectancy%20Analysis
 
 ### Investigating Behavioral Economics Biases using R: 
 https://github.com/WambuiJG/WambuiJG/blob/b24a18a001778edacf96a7aee87685e5d3233f32/Investigating%20Behavioral%20Economics%20Biases
