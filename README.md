@@ -13,12 +13,12 @@
 ### K-means & Hierachial Clustering on Fictional Mall Data using Python: 
 https://github.com/WambuiJG/WambuiJG/blob/a5b1f05db93fe3990fbdac353ba55b5f8f774ac9/Clustering%20for%20Customer%20Segmentation%20on%20Online%20Mall%20Data.ipynb
 
-#### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/8e2803c454a11cb78c7e054e3036ae25ebab404c/Customer%20Analysis%20Presentation.pdf
+  #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/8e2803c454a11cb78c7e054e3036ae25ebab404c/Customer%20Analysis%20Presentation.pdf
 
 ### Analysis of English Premier League Data from 2018-2019 using Python: 
 https://github.com/WambuiJG/WambuiJG/blob/831873b9bdbd42c353c198fa8325fd0e3cc80dae/English_Premier_League_Soccer.ipynb
 
-#### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/51d7f800635824737534d8c2d61617879908a8c8/Soccer%20Analysis.pdf
+  #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/51d7f800635824737534d8c2d61617879908a8c8/Soccer%20Analysis.pdf
 
 ### Investigating Netflix Movies using Python:
 https://github.com/WambuiJG/WambuiJG/blob/82634af16b8f1fb45f6331afba814cb02c8d8687/Investigating_Netflix_Movies.ipynb
