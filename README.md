@@ -27,11 +27,11 @@ https://github.com/WambuiJG/WambuiJG/blob/6dfbc679a6dba73b9575030f5a626fddb6ef0f
 
 ## R Projects
 
-### Life Expectancy Project using R:
-https://github.com/WambuiJG/WambuiJG/blob/b7b8bc6971bd0bcb503558058bf23eb252e406c5/Global%20Life%20Expectancy%20Analysis
+### Life Expectancy Analysis using R: https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Global%20Life%20Expenctancy%20Analysis.R
 
-### Investigating Behavioral Economics Biases using R: 
-https://github.com/WambuiJG/WambuiJG/blob/b24a18a001778edacf96a7aee87685e5d3233f32/Investigating%20Behavioral%20Economics%20Biases
+### Investigating Behavioral Biases using R: https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Behavioural%20Biases%20Analysis.R
+
+### School Intervention Analysis: https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Schools%20Intervention%20Analysis.R
 
 ## Excel Projects
 
