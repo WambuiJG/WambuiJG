@@ -11,19 +11,19 @@
 ## Python Projects
 
 ### K-means & Hierachial Clustering on Fictional Mall Data using Python: 
-https://github.com/WambuiJG/WambuiJG/blob/77007bbe68f3919013f5b945ecc39000ad4ae882/Presentation%20of%20Findings/Customer%20Analysis%20Presentation.pdf
+https://github.com/WambuiJG/WambuiJG/blob/6dfbc679a6dba73b9575030f5a626fddb6ef0f7f/Python%20Projects/Customer%20%20Analysis.ipynb
 
 * #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/2873aa98a67f38f17bc9f6b89b5d8a68b41a6a52/Customer%20Analysis%20Presentation.pdf
 
 ### Analysis of English Premier League Data from 2018-2019 using Python: 
-https://github.com/WambuiJG/WambuiJG/blob/77007bbe68f3919013f5b945ecc39000ad4ae882/Presentation%20of%20Findings/Soccer%20Analysis.pdf
+https://github.com/WambuiJG/WambuiJG/blob/6dfbc679a6dba73b9575030f5a626fddb6ef0f7f/Python%20Projects/%20English%20Premier%20League%20Soccer.ipynb
 
 * #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/51d7f800635824737534d8c2d61617879908a8c8/Soccer%20Analysis.pdf
 
 ### Investigating Netflix Movies using Python:
-https://github.com/WambuiJG/WambuiJG/blob/77007bbe68f3919013f5b945ecc39000ad4ae882/Presentation%20of%20Findings/Netflix%20Movies%20%26%20TV%20Shows%20Analysis.pdf
+https://github.com/WambuiJG/WambuiJG/blob/6dfbc679a6dba73b9575030f5a626fddb6ef0f7f/Python%20Projects/Investigating%20Netflix%20Movies.ipynb
 
-* #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/1f175f63b0d683f87be478bbef929231395bcdf1/Netflix%20Movies%20%26%20TV%20Shows%20Analysis.pdf
+* #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/6dfbc679a6dba73b9575030f5a626fddb6ef0f7f/Presentation%20of%20Findings/Netflix%20Movies%20%26%20TV%20Shows%20Analysis.pdf
 
 ## R Projects
 
