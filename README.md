@@ -23,6 +23,8 @@ https://github.com/WambuiJG/WambuiJG/blob/831873b9bdbd42c353c198fa8325fd0e3cc80d
 ### Investigating Netflix Movies using Python:
 https://github.com/WambuiJG/WambuiJG/blob/82634af16b8f1fb45f6331afba814cb02c8d8687/Investigating_Netflix_Movies.ipynb
 
+* #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/1f175f63b0d683f87be478bbef929231395bcdf1/Netflix%20Movies%20%26%20TV%20Shows%20Analysis.pdf
+
 ## R Projects
 
 ### Life Expectancy Project using R:
