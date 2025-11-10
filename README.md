@@ -27,16 +27,18 @@ https://github.com/WambuiJG/WambuiJG/blob/6dfbc679a6dba73b9575030f5a626fddb6ef0f
 
 ## R Projects
 
-### Life Expectancy Analysis using R: https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Global%20Life%20Expenctancy%20Analysis.R
+### Life Expectancy Analysis using R: 
+https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Global%20Life%20Expenctancy%20Analysis.R
 
-### Investigating Behavioral Biases using R: https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Behavioural%20Biases%20Analysis.R
+### Investigating Behavioral Biases using R: 
+https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Behavioural%20Biases%20Analysis.R
 
-### School Intervention Analysis: https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Schools%20Intervention%20Analysis.R
+### School Intervention Analysis: 
+https://github.com/WambuiJG/WambuiJG/blob/be30f44e80e07bc1ab8e19254169b1a1b3fb61e9/R%20Projects/Schools%20Intervention%20Analysis.R
 
 ## Excel Projects
 
 ### Financial Analysis using Excel
 
 https://github.com/WambuiJG/WambuiJG/blob/1cdaaa1d86f67bfa757c55241cc32ad8fc3f38f7/Wambui%20Gitahi_BigTech%20-%20Excel.xlsx
-* #### PowerPoint Report of Findings: 
-https://github.com/WambuiJG/WambuiJG/blob/77007bbe68f3919013f5b945ecc39000ad4ae882/Presentation%20of%20Findings/BigTech_Financial%20Analysis.pdf
+* #### PowerPoint Report of Findings: https://github.com/WambuiJG/WambuiJG/blob/77007bbe68f3919013f5b945ecc39000ad4ae882/Presentation%20of%20Findings/BigTech_Financial%20Analysis.pdf
